@@ -1,0 +1,11 @@
+.TodoList {
+	background: #474C56;
+	margin: 0 auto;
+	width: 80%;
+	border-radius: 10px;
+}
+.TodoList h2 {
+	text-transform: uppercase;
+	text-decoration: underline;
+	color: #FFF;
+}

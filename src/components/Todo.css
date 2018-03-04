@@ -1,0 +1,22 @@
+.Todo {
+	background: #FFF;
+	padding: 10px;
+	margin: 10px;
+	display: inline-block;
+}
+.Todo p {
+	display: inline-block;
+	margin: 0;
+}
+.Todo a {
+	display: inline-block;
+	padding: 10px;
+	margin: 2%;
+	text-decoration: none;
+	color: #FFF;
+	background: #402751;
+	border-radius: 5px;
+}
+.Todo a:hover {
+	background: #603A7A;
+}
