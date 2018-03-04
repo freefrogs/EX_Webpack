@@ -9,10 +9,11 @@
 	align-items: center;
 	align-content: center;
 	width: 70vw;
-	height: 80vh;
+	min-height: 80vh;
 	margin: 5% auto;
 	box-shadow: 0 2px 10px #000;
 	text-align: center;
+	padding-bottom: 2%;
 }
 .TodoApp h1 {
 	text-decoration: underline;

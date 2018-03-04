@@ -1,0 +1,25 @@
+.TodoForm {
+	margin-bottom: 2%;
+}
+.TodoForm input {
+	padding: 4px;
+	outline: 0;
+}
+.TodoForm [type='text'] {
+	border-radius: 4px 0 0 4px;
+	border: 1px solid #402751;
+}
+.TodoForm [type='text']:focus {
+	border-color: #402751;
+	border-radius: 4px 0 0 4px;
+}
+.TodoForm [type='submit'] {
+	background: #402751;
+	color: #FFF;
+	border: 1px solid #402751;
+	border-radius: 0 4px 4px 0;
+	cursor: pointer;
+}
+.TodoForm [type='submit']:hover {
+	background: #603A7A;
+}
