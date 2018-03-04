@@ -5,8 +5,8 @@ class Title extends React.Component {
 	let todoCount = this.props.data.length;
 		return (
 			<div>
-				<h1>To do list</h1>
-				<p>There is {todoCount} todo task</p>
+				<h1>My To Do list</h1>
+				<p>There is <span>{todoCount}</span> task on my list:</p>
 			</div>
 		);
 	}
